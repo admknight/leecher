@@ -1,7 +1,7 @@
 {
 	"name": "Torrent Leech",
-	"description": "Toh Bolo Kickass Baba ki Jai",
-	"repository":  "https://github.com/ramavats/torrentleecher1",
+	"description": "Torrent Leech by Adam Knight",
+	"repository":  "https://github.com/admknight/leecher",
 	"logo" : "https://cdn4.iconfinder.com/data/icons/sabre/snow_sabre_black/128/folder_black_download.png",
 	"keywords": [
 		"bittorrent",
