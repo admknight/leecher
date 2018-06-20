@@ -1,0 +1,22 @@
+{
+	"name": "Torrent Leech",
+	"description": "Toh Bolo Kickass Baba ki Jai",
+	"repository":  "https://github.com/ramavats/torrentleecher1",
+	"logo" : "https://cdn4.iconfinder.com/data/icons/sabre/snow_sabre_black/128/folder_black_download.png",
+	"keywords": [
+		"bittorrent",
+		"torrent",
+		"stream",
+		"peerflix",
+		"server",
+		"web"
+	],
+	"buildpacks" : [
+		{
+			"url" : "https://github.com/47deg/heroku-buildpack-nodejs-grunt-bower"
+		},
+    {
+      "url" : "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+	]
+}
